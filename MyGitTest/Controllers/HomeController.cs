@@ -10,6 +10,7 @@ namespace MyGitTest.Controllers
     {
         public ActionResult Index()
         {
+            "test";
             return View();
         }
 
